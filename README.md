@@ -143,7 +143,3 @@ Frontend runs at `http://localhost:5173`
 | DELETE | `/api/chats/:id` | Delete chat |
 | PATCH | `/api/chats/:id/title` | Update chat title |
 | POST | `/api/chats/:id/messages` | Send message (SSE stream) |
-
-## License
-
-MIT
